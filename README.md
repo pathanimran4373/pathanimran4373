@@ -1,4 +1,4 @@
-![logo](https://images.unsplash.com/photo-1633356122544-f134324a6cee?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cmVhY3QlMjBqc3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=600&q=60)
+![logo](https://images.unsplash.com/photo-1633356122544-f134324a6cee?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cmVhY3QlMjBqc3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=600&q=60/1500X500)
 <h1 align="center">Hi 👋, I'm Mohmad ImranKhan</h1>
 <h3 align="center">I'm a dedicated professional in Web Development</h3>
 <img align="right" alt="coder" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e4758ihtaok5qgsnti9ea129os6hcxldtrvo5mt175h&ep=v1_gifs_search&rid=giphy.gif&ct=g">
