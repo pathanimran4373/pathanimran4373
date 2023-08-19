@@ -1,4 +1,4 @@
-![logo](img-github.jpg)
+![logo]<img src="/img-github.jpg" alt="logo">
 <h1 align="center">Hi 👋, I'm Mohmad ImranKhan</h1>
 <h3 align="center">I'm a dedicated professional in Web Development</h3>
 <img align="right" alt="coder" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e4758ihtaok5qgsnti9ea129os6hcxldtrvo5mt175h&ep=v1_gifs_search&rid=giphy.gif&ct=g">
